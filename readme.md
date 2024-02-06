@@ -39,7 +39,7 @@ Tenho 22 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar 
 ### 📈 Minhas Estatísticas
 <Br> 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Vitor&show_icons=true&layout=compact&card_width=443)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVitor&show_icons=true&layout=compact&card_width=443)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
