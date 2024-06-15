@@ -32,7 +32,7 @@ Tenho 22 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar 
 ### ⚡ Tecnologias:
  Estas são as tecnologias que tenho conhecimentos: 
  <br> <br>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,php,laravel)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,php,laravel,react)](https://skillicons.dev)
 
 <Br>
 
