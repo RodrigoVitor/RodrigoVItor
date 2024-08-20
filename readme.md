@@ -1,6 +1,6 @@
 <h1 style="text-align:center"> 
     Olá, Sou Rodrigo Vitor <br/>
-    Bem vindo a minha página😊  
+    Bem vindo a minha página 😊  
  </h1>
 
 
