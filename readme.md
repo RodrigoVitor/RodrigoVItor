@@ -4,18 +4,18 @@
  </h1>
 
 
-<h4 style="text-align:center"> Desenvolvedor Back-end PHP</h4>
+<h4 style="text-align:center"> Desenvolvedor Web</h4>
     <br>
 
 ### 🌼 Sobre mim:
 
 <br>
 
-Tenho 22 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar um *Desenvolvedor Full-stack*
+Tenho 23 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar um *Desenvolvedor Full-stack*
 
 * 🚀 Estudante de programação
 * 🏫 Cursando Engenharia da Computação
-* 👨‍💻 Estágiei como back-end na ImovelGuide
+* 👨‍💻 Estágiei como back-end PHP na ImovelGuide
 * Eu amo programar, Sempre estou apredendo algo novo no meu dia a dia 🚀
 
 <br>
