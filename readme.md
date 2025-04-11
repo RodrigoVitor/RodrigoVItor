@@ -11,7 +11,7 @@
 
 <br>
 
-Tenho 23 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar um *Desenvolvedor Full-stack*
+Tenho 23 anos, Sou de Curitiba/PR e estou trilhando meu caminho para se tornar um *Desenvolvedor Full-stack*
 
 * 🚀 Estudante de programação
 * 🏫 Cursando Engenharia da Computação
