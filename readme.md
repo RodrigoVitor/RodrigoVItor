@@ -1,55 +1,61 @@
-<h1 style="text-align:center"> 
-    Olá, Sou Rodrigo Vitor <br/>
-    Bem vindo a minha página 😊  
- </h1>
+# 👋 Olá, eu sou o Rodrigo Vitor!
 
+🎓 Estudante de Engenharia da Computação apaixonado por tecnologia, desenvolvimento web e aprendizado constante. Tenho experiência prática com PHP, Laravel, MySQL, e projetos utilizando Node.js, React.js e TypeScript.
 
-<h4 style="text-align:center"> Desenvolvedor Web</h4>
-    <br>
+---
 
-### 🌼 Sobre mim:
+## 💼 Sobre mim
 
-<br>
+Sou desenvolvedor back-end em formação, com forte interesse no desenvolvimento de APIs e integração de sistemas. Durante minha jornada, participei ativamente de projetos que envolvem tanto o lado do servidor quanto o cliente, sempre focando em entregar soluções limpas, eficientes e escaláveis.
 
-Tenho 23 anos, Sou de Curitiba/PR e estou trilhando meu caminho para se tornar um *Desenvolvedor Full-stack*
+Tenho facilidade em trabalhar em equipe, sou resiliente diante de desafios e estou sempre em busca de evolução profissional e técnica.
 
-* 🚀 Estudante de programação
-* 🏫 Cursando Engenharia da Computação
-* 👨‍💻 Estágiei como back-end PHP na ImovelGuide
-* Eu amo programar, Sempre estou apredendo algo novo no meu dia a dia 🚀
+---
 
-<br>
+## 🛠️ Tecnologias & Habilidades
 
-### 📊 Metas:
-* 📂 Expandir meu portfólio
-* 💻 Tornar-se programador web fullstack
-* 📈 Conseguir experiência na área
-* 💡 Fazer Network
+- **Linguagens e Frameworks**: PHP, Laravel, Node.js (Express), React.js, TypeScript
+- **Banco de dados**: MySQL, PostgreSQL
+- **Outras ferramentas**: Git, Postman, Axios, Tailwind CSS, Canva, GIMP
+- **Boas práticas**: SOLID, Padrões de projeto, Versionamento com Git
+- **Idiomas**: Português (nativo), Inglês (nível A2 em curso)
 
-<br>
+---
 
+## 📚 Formação
 
-### ⚡ Tecnologias:
- Estas são as tecnologias que tenho conhecimentos: 
- <br> <br>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,php,laravel,react)](https://skillicons.dev)
+**Bacharelado em Engenharia da Computação**  
+Universidade de Marília – Previsão de conclusão: Dezembro/2026
 
-<Br>
+**Curso de Inglês – English Trip School**  
+Nível atual: A2 (em andamento)
 
-### 📈 Minhas Estatísticas
-<Br> 
+---
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoVitor&show_icons=true&layout=compact&card_width=443)](https://github.com/anuraghazra/github-readme-stats)
+## 💼 Experiências Profissionais
 
-<br>
+### Estagiário Back-end PHP – Julidori  
+📆 Março/2024 – Novembro/2024  
+Trabalhei com PHP e Laravel em projetos diversos, incluindo desenvolvimento de APIs, manutenção de sistemas e integração com serviços externos. Alguns projetos notáveis:
 
- " Cada passo que você dá você fica mais perto do seu objetivo! "
- 
- <br />
-<br />
-<br />
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rodrigo-Vitor" alt="IvanRafael-Dev" />
-</p>
-<p>
-  #made_with_love 🖤
+- **Clínica Scardini**: Foco no frontend e aprimoramento da interface.
+- **Rancho do Marçal**: Criação de APIs RESTful e otimização de banco de dados.
+
+### Estagiário Back-end – Imovel Guide  
+📆 Junho/2023 – Dezembro/2023  
+Atuei com PHP, Laravel e MySQL no desenvolvimento de novas funcionalidades e otimização de performance da aplicação. Principais atividades:
+
+- Criação de controllers, models, migrations e rotas.
+- Revisão de código da equipe de estagiários.
+- Melhoria de performance através de consultas otimizadas em MySQL.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [rodrigovitordev2024@gmail.com](mailto:rodrigovitordev2024@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rodrigovitorpr](https://www.linkedin.com/in/rodrigovitorpr)  
+
+---
+
+⭐ Sinta-se à vontade para visitar meus repositórios, contribuir ou entrar em contato para trocar ideias!
